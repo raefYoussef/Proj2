@@ -1,0 +1,74 @@
+#wrapper 
+{
+  position: relative;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+#body 
+{
+  position:relative;
+  background-color: #f5ca5c;
+  color: black;
+  text-align: center;
+  width: 75em;
+  height: 28em;
+  
+
+  margin: auto;
+  margin-top: 5em;
+  margin-bottom: 5em;
+
+  padding-top: .3125em;
+  padding-bottom: .3125em;
+  padding-right: .3125em ;
+  padding-left:.3125em;
+
+  border: .0625em solid #42464b;
+  border-radius: .375em;
+}
+
+
+#login
+{
+	background: #eceeee;
+  border: 1px solid #42464b;
+  border-radius: .375em;
+  height: 16.0625em;
+ 	margin: 1.25em auto 0;
+ 	padding-top: 1em;
+ 	width: 18.625em;
+}
+
+#invalid
+{
+	margin-top: .5em;
+	margin-bottom: .5em;
+}
+
+#user
+{
+	margin-top: 2em;
+	margin-bottom: .5em;
+}
+
+#pass
+{
+	margin-top: .5em;
+	margin-bottom: .5em;
+}
+
+
+
+
+span
+{
+	color: white;
+}
+
+
+
